@@ -1,1 +1,0 @@
-[Code of Conduct](docs/docs/resources/code-of-conduct.md)
